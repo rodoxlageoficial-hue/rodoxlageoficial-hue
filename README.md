@@ -23,11 +23,11 @@ Atuar como Desenvolvedor Backend Júnior em ambiente remoto, contribuindo com so
 Maringá - Paraná, Brasil
 
 ## 👤 Pronomes
-ele/dele, ela/dela
+ele/dele, 
 
-## 📞 Entre em contato
-- 💼 LinkedIn: [Seu LinkedIn]
-- 📧 Email: [Seu Email]
+## 📞 Entre em contato - (44)99994-5507
+- 💼 LinkedIn: www.linkedin.com/in/rodolpholage
+- 📧 Email: rodoxlagerec@gmail.com
 - 🐙 GitHub: [@rodoxlageoficial-hue](https://github.com/rodoxlageoficial-hue)
 
 ---
