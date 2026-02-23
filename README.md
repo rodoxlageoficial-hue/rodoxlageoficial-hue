@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou Rodolpho 👋
 
-<!--
-**rodoxlageoficial-hue/rodoxlageoficial-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Desenvolvedor Backend focado na criação de sistemas funcionais e modelagem de banco de dados.
+Experiência prática com regras de negócio, autenticação e intermediação de serviços.
 
-Here are some ideas to get you started:
+## 🚀 Objetivo
+Atuar como Desenvolvedor Backend Júnior em ambiente remoto, contribuindo com soluções reais e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+- Python
+- SQL / SQL Server
+- APIs REST
+- HTML & CSS
+- Git
+- Modelagem de Banco de Dados
+
+## 📌 Projetos em Destaque
+- Plataforma de Intermediação de Freelancers (em desenvolvimento)
+- Administração e customização de servidor FiveM
+
+## 📍 Localização
+Maringá - Paraná, Brasil
+
+## 👤 Pronomes
+ele/dele, ela/dela
+
+## 📞 Entre em contato
+- 💼 LinkedIn: [Seu LinkedIn]
+- 📧 Email: [Seu Email]
+- 🐙 GitHub: [@rodoxlageoficial-hue](https://github.com/rodoxlageoficial-hue)
+
+---
+
+*Sempre aberto a novas oportunidades e aprendizados! 🌟*
